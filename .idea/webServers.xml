@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f548adb8-3e02-4026-97b7-30175222dca9" name="EnlightenGAN">
+        <fileTransfer accessType="SFTP" host="192.168.1.211" port="22" sshConfigId="62e38662-f5b2-4b2f-91fb-5d0ce969a231" sshConfig="jaya@192.168.1.211:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
